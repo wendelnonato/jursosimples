@@ -6,8 +6,8 @@ p =int(input('me informe o prazo:'))
 
 #Processamento
 
-total =  c * i * p
+total =  c * i * p / 100
 
 #Saida
 
-print(f' Juro:{total/100}')
+print(f' Juros:R${total}')
