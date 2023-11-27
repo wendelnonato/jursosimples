@@ -1,7 +1,7 @@
 #Apresentação do juros simples
 
-c =int(input('informe o capital:'))
-i =int(input('informe a taxa:'))
+c =float(input('informe o capital:'))
+i =float(input('informe a taxa:'))
 p =int(input('me informe o prazo:'))
 
 #Processamento
